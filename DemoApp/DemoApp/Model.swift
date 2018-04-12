@@ -12,6 +12,7 @@ class Model: NSObject {
 
     override init() {
         print("abc")
+        
     }
     
 }
