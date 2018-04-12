@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
         print("git init")
+        print("git push")
         // Do any additional setup after loading the view, typically from a nib.
     }
 
