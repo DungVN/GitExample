@@ -12,7 +12,7 @@ class Model: NSObject {
 
     override init() {
         print("abc")
-        
+        print("merge Master")
     }
     
 }
