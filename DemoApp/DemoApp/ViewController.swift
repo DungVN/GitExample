@@ -15,6 +15,7 @@ class ViewController: UIViewController {
         
         print("git init")
         print("git push")
+        print("tôi yêu em")
         // Do any additional setup after loading the view, typically from a nib.
     }
 
